@@ -1,0 +1,7 @@
+#vesione di python utilizzata 
+#python -- version is 3.11.4
+
+
+#Django library
+Django==5.0.3
+os-sys==2.1.4
